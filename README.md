@@ -21,8 +21,6 @@ Here is what you need to start:
 Begin by putting a fresh image of Raspbian Stretch onto your Raspberry Pi.<br>
 Set up your Pi (hostname/timezone/etc).<br>
 <br>
-Download the ZIP file that has everything you will need.<br>
-<br>
 On your PC:<br>
 - create a temporary directory to work from (NOT c:\temp!)<br>
 - un-zip the downloaded file into that directory<br>
